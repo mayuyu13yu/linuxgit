@@ -11,3 +11,6 @@ int paxos()
    printf("ppp");
 	printf("checkout from previson and addedvthis");
 }
+
+#added some comment
+#added some bad comment again
