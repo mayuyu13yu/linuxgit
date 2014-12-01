@@ -7,5 +7,7 @@ int main()
 
 int paxos()
 {
+	printf("merged")
    printf("ppp");
+	printf("checkout from previson and addedvthis");
 }
